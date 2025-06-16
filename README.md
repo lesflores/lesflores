@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hola! Soy Les 🤠
 
-<!--
-**lesflores/lesflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Evaluación de políticas públicas, integridad institucional y análisis de datos
+📢 Divulgadora académica y fan del código sencillo #CóditoDeTodxs ✨  
 
-Here are some ideas to get you started:
+## 📊 Estadísticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Lesly's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesflores&show_icons=true&hide_title=true&hide=stars&theme=default)
+
+## 📫 Conectemos!
+
+💼 [LinkedIn](https://www.linkedin.com/in/lesly-flores-008232114/)  
+🐦 [X](https://x.com/lesssflo)  
+📬 [Coreo](flores.le@ugto,mx)  
