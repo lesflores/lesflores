@@ -14,9 +14,13 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lesflores&theme=default&ring=FF69B4&fire=FFD700&currStreakLabel=DA70D6)](https://git.io/streak-stats)
 
+---
+
 ## 📊 Actividad reciente
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lesflores&theme=pastel&color=DB7093&line=9370DB&point=FFF176&area=true&hide_border=false)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lesflores&theme=pastel&color=FF69B4&line=DA70D6&point=FFD700&area=true&hide_border=false)
+
+
 
 ## 📫 Conectemos!
 
