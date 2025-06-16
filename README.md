@@ -1,6 +1,7 @@
 ## Hola! Soy Les 🤠
 
-📊 Evaluación de políticas públicas, integridad institucional y análisis de datos
+🔎 Evaluación de políticas públicas, integridad institucional y análisis de datos
+
 📢 Divulgadora académica y fan del código sencillo #CódigoDeTodxs ✨  
 
 ## 📊 Estadísticas
