@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Lesly+Flores+🤠;Evalúo+políticas+públicas+con+código+sencillo;+%7C+Analista+%7C+Docente+%7C+R+Lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Lesly+Flores+🤠;Evalúo+políticas+públicas+con+código+sencillo;+Analista+%7C+Docente+%7C+R+Lover)](https://git.io/typing-svg)
 
 ## Hola! Soy Les 🤠
 
@@ -14,7 +14,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lesflores&theme=default&ring=FF69B4&fire=FFD700&currStreakLabel=DA70D6)](https://git.io/streak-stats)
 
----
+
 
 ## 📊 Actividad reciente
 
