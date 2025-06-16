@@ -14,7 +14,7 @@
 
 ## 📊 Actividad reciente
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lesflores&theme=light&color=FF69B4&line=DA70D6&point=FFD700&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lesflores&theme=pastel&color=DB7093&line=9370DB&point=FFF176&area=true&hide_border=false)
 
 ## 📫 Conectemos!
 
