@@ -6,8 +6,12 @@
 
 ## 📊 Estadísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesflores&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesflores&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesflores&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesflores&show_icons=true&theme=cobalt)
+
+## 📊 Actividad reciente
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lesflores&theme=react-dark&color=FF69B4&point=FFD700)
 
 ## 📫 Conectemos!
 
