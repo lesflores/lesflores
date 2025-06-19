@@ -12,9 +12,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesflores&layout=compact&theme=default&title_color=FF69B4)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lesflores&theme=default&ring=FF69B4&fire=FFD700&currStreakLabel=DA70D6)](https://git.io/streak-stats)
-
-
 
 ## 📊 Actividad reciente
 
