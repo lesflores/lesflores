@@ -144,7 +144,7 @@ I care about making methods more understandable, reusable, and public-facing.
 - 💻 [GitHub](https://github.com/lesflores)
 - 🐦 [X / Twitter](https://x.com/lesssflo)
 - 💼 [LinkedIn](https://mx.linkedin.com/in/lesly-flores-008232114)
-- ✉️ [Email](flores.le@ugto.mx)
+- ✉️ [Email](mailto:flores.le@ugto.mx)
 
 ---
 
