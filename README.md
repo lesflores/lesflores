@@ -34,7 +34,7 @@ My work focuses on:
 
 **Integridad institucional, democracia electoral y crimen organizado: un análisis mediante PCA y modelos multinivel** *(2026)*  
 Published in *América Latina Hoy*. Examines how electoral democracy and organized crime shape institutional integrity in Latin America using PCA and multilevel models.  
-🔗 [Article](https://revistas.usal.es/cuatro/index.php/1130-2887/article/view/32394) · [Scholar profile](https://scholar.google.com/citations?user=3ABHE3kAAAAJ&hl=es)
+🔗 [Article](https://revistas.usal.es/cuatro/index.php/1130-2887/article/view/32394)
 
 **Conflictos de organizaciones criminales y el principio electoral de la democracia** *(2024)*  
 Published in *Política. Revista de Ciencia Política*. Analyzes the relationship between criminal organization conflicts and the electoral dimension of democracy.  
@@ -44,17 +44,9 @@ Published in *Política. Revista de Ciencia Política*. Analyzes the relationshi
 Focuses on evaluation from local supreme audit institutions and the experience of *¿Cómo Andamos Guanajuato?* as a citizen-centered evaluation initiative.  
 🔗 [Full text](https://www.researchgate.net/publication/397223039_Aproximacion_a_la_Evaluacion_desde_la_Fiscalizacion_Superior_Local_El_caso_de_la_Evaluacion_Complementaria_Como_Andamos_Guanajuato_en_la_Calidad_de_los_Servicios_Publicos_en_los_anos_2022_y_2023)
 
-**La percepción de inseguridad y el apoyo al Partido Acción Nacional en Guanajuato** *(2022, co-authored)*  
-Published in *SOCIOTAM*. Studies the relationship between perceived insecurity, crime incidence, and electoral support in Guanajuato.  
-🔗 [Article](https://sociotam.uat.edu.mx/index.php/SOCIOTAM/article/view/186)
-
 **Nueva aproximación sobre la representación de la identidad nacional y su problemática en México** *(2021, co-authored)*  
 Published in *SOCIOTAM*. Revisits national identity and its contemporary challenges in Mexico.  
 🔗 [Article](https://sociotam.uat.edu.mx/index.php/SOCIOTAM/article/view/167)
-
-**El impacto de la globalización en el desarrollo actual del Estado-nación** *(2019)*  
-Explores identity, participation, and the contemporary transformation of the nation-state under globalization.  
-🔗 [Article](https://www.comecso.com/ciencias-sociales-agenda-nacional/cs/article/view/2020)
 
 ---
 
@@ -152,8 +144,8 @@ I care about making methods more understandable, reusable, and public-facing.
 - 🔎 [Google Scholar](https://scholar.google.com/citations?user=3ABHE3kAAAAJ&hl=es)
 - 💻 [GitHub](https://github.com/lesflores)
 - 🐦 [X / Twitter](https://x.com/lesssflo)
-- 💼 [LinkedIn](Add your LinkedIn URL here)
-- ✉️ [Email](Add your contact email here)
+- 💼 [LinkedIn](https://mx.linkedin.com/in/lesly-flores-008232114)
+- ✉️ [Email](flores.le@ugto.mx)
 
 ---
 
