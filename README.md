@@ -33,19 +33,18 @@ My work focuses on:
 ### Selected publications
 
 **Integridad institucional, democracia electoral y crimen organizado: un análisis mediante PCA y modelos multinivel** *(2026)*  
-Published in *América Latina Hoy*. Examines how electoral democracy and organized crime shape institutional integrity in Latin America using PCA and multilevel models.  
+Published in *América Latina Hoy*. 
 🔗 [Article](https://revistas.usal.es/cuatro/index.php/1130-2887/article/view/32394)
 
 **Conflictos de organizaciones criminales y el principio electoral de la democracia** *(2024)*  
-Published in *Política. Revista de Ciencia Política*. Analyzes the relationship between criminal organization conflicts and the electoral dimension of democracy.  
+Published in *Política. Revista de Ciencia Política*. 
 🔗 [Article](https://revistapolitica.uchile.cl/index.php/RP/article/view/72097)
 
 **Aproximación a la Evaluación desde la Fiscalización Superior Local: El caso de la Evaluación Complementaria “Cómo Andamos Guanajuato en la Calidad de los Servicios Públicos” en los años 2022 y 2023** *(2024, co-authored)*  
-Focuses on evaluation from local supreme audit institutions and the experience of *¿Cómo Andamos Guanajuato?* as a citizen-centered evaluation initiative.  
 🔗 [Full text](https://www.researchgate.net/publication/397223039_Aproximacion_a_la_Evaluacion_desde_la_Fiscalizacion_Superior_Local_El_caso_de_la_Evaluacion_Complementaria_Como_Andamos_Guanajuato_en_la_Calidad_de_los_Servicios_Publicos_en_los_anos_2022_y_2023)
 
 **Nueva aproximación sobre la representación de la identidad nacional y su problemática en México** *(2021, co-authored)*  
-Published in *SOCIOTAM*. Revisits national identity and its contemporary challenges in Mexico.  
+Published in *SOCIOTAM*.  
 🔗 [Article](https://sociotam.uat.edu.mx/index.php/SOCIOTAM/article/view/167)
 
 ---
