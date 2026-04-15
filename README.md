@@ -1,4 +1,4 @@
-# Hi, I'm Lesly Flores ✨
+# Hi, I'm Lesly Flores 🤠
 
 <p align="center">
   <em>Social scientist · Public policy evaluation · R for public policy · Computational social science</em>
