@@ -14,7 +14,7 @@
 
 ## About me
 
-I am a professor-researcher and evaluator working at the intersection of **public policy evaluation**, **governance**, **citizen perception**, and **reproducible workflows in R**.
+I am a professor and evaluator working at the intersection of **public policy evaluation**, **governance**, **citizen perception**, and **reproducible workflows in R**.
 
 My work focuses on:
 
